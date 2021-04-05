@@ -25,7 +25,7 @@ Geo-location – only general location may be collected. No street name or city/
 
 * This app does not allow any personal information to be linked to the persistent identifier, even from other services.
 
-* We are using the webView to show the data from the particular url or React-native documented page.
+* We are using the webView to show the data from the particular url.
 
 * We are folowing the below policies from the google policy center also.
 - https://support.google.com/googleplay/android-developer/topic/9877466
